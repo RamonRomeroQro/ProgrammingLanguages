@@ -1,6 +1,6 @@
 # ProgrammingLanguages
 
-Follow @ramonromeroqro, @danielamezcua, @alelopezperez on GitHub
+Follow @ramonromeroqro on GitHub
 
 ```
 This program is free software: you can redistribute it and/or modify
